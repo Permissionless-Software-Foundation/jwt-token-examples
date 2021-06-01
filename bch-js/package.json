@@ -1,0 +1,14 @@
+{
+  "name": "bch-js-jwt-example",
+  "version": "1.0.0",
+  "description": "Example of using a FullStack.cash JWT token when initializing bch-js",
+  "main": "bch-js-jwt-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@psf/bch-js": "^4.18.4"
+  }
+}

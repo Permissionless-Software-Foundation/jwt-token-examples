@@ -1,6 +1,6 @@
 # jwt-token-examples
 
-This repository gives examples of how to work with JWT tokens, used to access increased rate limits to the FullStack.cash API. This code repository is compliment to this YouTube video:
+This repository gives examples of how to work with [JWT tokens](https://jwt.io/), used to access increased rate limits to the FullStack.cash API. This code repository is compliment to this YouTube video:
 
 - [Using JWT Tokens with FullStack.cash](https://youtu.be/OdJOleHoSo8)
 
