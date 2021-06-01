@@ -1,0 +1,15 @@
+{
+  "name": "jwt-bch-lib",
+  "version": "1.0.0",
+  "description": "Example using jwt-bch-lib to fetch a JWT token.",
+  "main": "jwt-bch-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@psf/bch-js": "^4.18.4",
+    "jwt-bch-lib": "^1.3.0"
+  }
+}
