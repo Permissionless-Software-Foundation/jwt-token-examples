@@ -1,0 +1,14 @@
+{
+  "name": "axios-rest-api-example",
+  "version": "1.0.0",
+  "description": "Use a JWT token using axios.",
+  "main": "axios-rest-api-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
