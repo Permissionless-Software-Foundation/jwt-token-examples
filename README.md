@@ -2,7 +2,7 @@
 
 This repository gives examples of how to work with [JWT tokens](https://jwt.io/), used to access increased rate limits to the FullStack.cash API. This code repository is compliment to this YouTube video:
 
-- [Using JWT Tokens with FullStack.cash](https://youtu.be/OdJOleHoSo8)
+- [Using JWT Tokens with FullStack.cash](https://youtu.be/27h-KiS-dPg)
 
 The code in this repository is split up to different ways in which a user may need to incorporate a JWT token into their project:
 
